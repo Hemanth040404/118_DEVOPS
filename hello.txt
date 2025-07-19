@@ -1,0 +1,6 @@
+Hello, GitHub!
+
+This is a sample file added to test pushing changes to the repository.
+
+- Created by: Hemanth
+- Date: 2025-07-19
